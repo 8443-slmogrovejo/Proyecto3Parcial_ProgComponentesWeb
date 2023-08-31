@@ -1,0 +1,629 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\obj\\Debug\\net7.0\\build-gz\\X1N+v4eP.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\obj\\Debug\\net7.0\\scopedcss\\bundle\\ProyectoFinal3Parcial.styles.css",
+      "PackagePath": "staticwebassets\\ProyectoFinal3Parcial.styles.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\obj\\Debug\\net7.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\obj\\Debug\\net7.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\html\\combos.html",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\html\\combos.html"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\html\\individuales.html",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\html\\individuales.html"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\html\\rapidos.html",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\html\\rapidos.html"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\html\\sirenita.html",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\html\\sirenita.html"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\Logo.png",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\Logo.png"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\bebidas.PNG",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\bebidas.PNG"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\cine.jpeg",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\cine.jpeg"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\combos.PNG",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\combos.PNG"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\combos\\combo_1.PNG",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\combos\\combo_1.PNG"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\combos\\combo_2.PNG",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\combos\\combo_2.PNG"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\combos\\combo_3.PNG",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\combos\\combo_3.PNG"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\combos\\combo_4.PNG",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\combos\\combo_4.PNG"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\fondo.jpg",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\fondo.jpg"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\individuales.PNG",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\individuales.PNG"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\individuales\\individuales_1.PNG",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\individuales\\individuales_1.PNG"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\individuales\\individuales_2.PNG",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\individuales\\individuales_2.PNG"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\individuales\\individuales_3.PNG",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\individuales\\individuales_3.PNG"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\individuales\\individuales_4.PNG",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\individuales\\individuales_4.PNG"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\peliculas\\c_booge.jpg",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\peliculas\\c_booge.jpg"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\peliculas\\c_demonio.jpg",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\peliculas\\c_demonio.jpg"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\peliculas\\c_guardianes.PNG",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\peliculas\\c_guardianes.PNG"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\peliculas\\c_guardianes.jpg",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\peliculas\\c_guardianes.jpg"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\peliculas\\c_mario.jpg",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\peliculas\\c_mario.jpg"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\peliculas\\c_oro.jpg",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\peliculas\\c_oro.jpg"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\peliculas\\c_papa.jpg",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\peliculas\\c_papa.jpg"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\peliculas\\c_rapidos.PNG",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\peliculas\\c_rapidos.PNG"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\peliculas\\c_rapidos.jpg",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\peliculas\\c_rapidos.jpg"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\peliculas\\c_sirenita.PNG",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\peliculas\\c_sirenita.PNG"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\peliculas\\c_sirenita.jpg",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\peliculas\\c_sirenita.jpg"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\peliculas\\c_spiderman.PNG",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\peliculas\\c_spiderman.PNG"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\peliculas\\c_spiderman.jpg",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\peliculas\\c_spiderman.jpg"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\peliculas\\c_transformes.jpg",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\peliculas\\c_transformes.jpg"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\peliculas\\fast.jpg",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\peliculas\\fast.jpg"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\peliculas\\ff.jpg",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\peliculas\\ff.jpg"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\peliculas\\pri.jpg",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\peliculas\\pri.jpg"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\peliculas\\sire.jpg",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\peliculas\\sire.jpg"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\peliculas\\ursula.jpg",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\peliculas\\ursula.jpg"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\promocionales.PNG",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\promocionales.PNG"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\img\\rf.png",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\img\\rf.png"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\js\\keyup-escape.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\js\\keyup-escape.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\js\\scroll-p.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\js\\scroll-p.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\js\\scroll-s.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\js\\scroll-s.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\js\\sinopsis.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\js\\sinopsis.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\js\\slider.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\js\\slider.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\animate.css\\animate.compat.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\animate.css\\animate.compat.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\animate.css\\animate.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\animate.css\\animate.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\animate.css\\animate.min.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\animate.css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\assets\\vendor\\waypoints\\noframework.waypoints.js",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\assets\\vendor\\waypoints\\noframework.waypoints.js"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\CINESPE\\src\\index.html",
+      "PackagePath": "staticwebassets\\CINESPE\\src\\index.html"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "D:\\Sebastian\\Universidad\\6to Semestre\\Programación Integrativa\\3er Parcial\\Proyecto3P\\ProyectoFinal3Parcial\\ProyectoFinal3Parcial\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ProyectoFinal3Parcial.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ProyectoFinal3Parcial.props",
+      "PackagePath": "build\\ProyectoFinal3Parcial.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ProyectoFinal3Parcial.props",
+      "PackagePath": "buildMultiTargeting\\ProyectoFinal3Parcial.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ProyectoFinal3Parcial.props",
+      "PackagePath": "buildTransitive\\ProyectoFinal3Parcial.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

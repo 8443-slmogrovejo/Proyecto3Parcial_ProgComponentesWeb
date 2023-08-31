@@ -1,0 +1,19 @@
+@page "/mycomponent"
+
+<div class="my-component" @onmouseover="OnMouseOver" @onmouseout="OnMouseOut">
+    @displayText
+</div>
+
+@code {
+    private string displayText = "Con Nosotros...";
+
+    private void OnMouseOver()
+    {
+        displayText = "Con Nosotros ¡Descubre una nueva experiencia cinematográfica en nuestro sitio de películas! Sumérgete en un mundo lleno de emocionantes historias, increíbles efectos visuales y actuaciones cautivadoras. Desde clásicos atemporales hasta los últimos estrenos, tenemos una amplia selección de películas de todos los géneros para satisfacer todos los gustos.";
+    }
+
+    private void OnMouseOut()
+    {
+        displayText = "Con Nosotros...";
+    }
+}
